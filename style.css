@@ -76,7 +76,6 @@ nav a {
     font-weight: 600;
     padding: 8px 18px;
     border-radius: var(--radius);
-    transition: var(--transition);
 }
 
 nav a:hover {
@@ -108,7 +107,6 @@ main {
     border-radius: var(--radius);
     padding: 25px;
     box-shadow: 0px 10px 25px -5px rgba(0, 0, 0, 0.3);
-    transition: var(--transition);
 }
 
 .text_part:hover {
@@ -172,7 +170,6 @@ main {
     width: 100px;
     object-fit: cover;
     border-radius: 8px;
-    transition: var(--transition);
     border: 2px solid transparent;
 }
 
@@ -213,7 +210,6 @@ footer {
     border-radius: 20px;
     border: 1px solid var(--card-border);
     font-weight: 500;
-    transition: var(--transition);
 }
 
 .social-links a:hover {
